@@ -3,7 +3,8 @@ git clone "https://github.com/KathanChaudhari/task.git"
 
 
 Backend :
-go to backend folder:  cd .\Back-end\
+go to backend folder:  
+$ cd .\Back-end\
 install dependencies: npm install or yarn
 write available port number in .env file, by default it's 5000
 
